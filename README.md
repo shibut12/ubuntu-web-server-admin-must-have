@@ -2,6 +2,8 @@
 
 ## Commands
 
+## Firewall - ufw
+
 ## Nginx
 
 ## MYSQL
@@ -15,3 +17,5 @@
 ## ASP.Net Core hosting
 ### .Net Core
 ### Supervisor
+
+## Postfix
